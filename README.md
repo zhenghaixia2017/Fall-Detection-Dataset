@@ -7,15 +7,15 @@ This repository provides a comprehensive fall detection dataset containing a lar
 The dataset includes fall detection data collected across a variety of scenarios, covering different age groups, genders, and environmental conditions. Its structure and format are carefully organized to facilitate efficient data processing and model development.
 
 ## Usage
-1.	Download the Dataset
+### 1.	Download the Dataset
 Access and download the dataset files from the repository. 
-2.	Extract the Files
+### 2.	Extract the Files
 Unzip the downloaded archive to your local directory. 
-3.	Data Preprocessing
+### 3.	Data Preprocessing
 Perform necessary preprocessing steps such as data cleaning, normalization, or augmentation depending on your requirements. 
-4.	Model Training
+### 4.	Model Training
 Use the dataset to train your models with preferred machine learning or deep learning frameworks. 
-5.	Model Evaluation
+### 5.	Model Evaluation
 Evaluate the trained model using the test set to ensure performance, accuracy, and robustness.
 
 ## Data Source
